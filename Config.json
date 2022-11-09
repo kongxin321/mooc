@@ -13,7 +13,7 @@
   "Update": {
     "Version": 2,
     "Compel": false,
-	"UpdateMethod":1,
+	"UpdateMethod":3,
     "Url": "https://kongxin2333-my.sharepoint.com/personal/admin_kongxin2333_onmicrosoft_com/_layouts/52/download.aspx?share=EeYT7rxfDbFNo0koO2_DgUYBWrew7kTuplA9RbPZz9nHdg",
     "Pwd": "",
     "Bulletins": "更新公告!"
@@ -24,6 +24,7 @@
     "Function": "Lanzou"
   },
   "Code": 200,
-  "Msg":"欢迎使用英华MOOC慕课助手，本程序立志于减少大学生观看电子屏幕，解放大学生双眼，保护眼睛从我做起！本程序完全免费如您收费购买请立刻申请退款以维护自身权益！",
+  "Msg":"欢迎使用英华MOOC慕课助手，本程序立志于减少大学生观看电子屏幕，解放大学生双眼，保护眼睛从我做起！\r\n本程序完全免费如您收费购买请立刻申请退款以维护自身权益！",
   "Data": {}
+  
 }
