@@ -4,46 +4,26 @@
     "Bulletins": "维护公告!"
   },
   "Patch": {
-    "State": false,
-    "Url": "/Patch/Hello.dll",
+    "State": true,
+    "Url": "/Patch/Mooc_Init.dll",
     "Pwd": "",
-    "Function": "Hello",
-    "Arg": [
-      {
-        "Type": "int",
-        "Value": 12
-      },
-      {
-        "Type": "Double",
-        "Value": 12.123123
-      },
-      {
-        "Type": "String",
-        "Value": "hello"
-      },
-      {
-        "Type": "Bool",
-        "Value": true
-      },
-      {
-        "Type": "Buff",
-        "Value": "/////w=="
-      }
-    ]
+    "Function": "Mooc_Init",
+    "Arg": []
   },
   "Update": {
     "Version": 2,
-    "Compel": true,
+    "Compel": false,
+	"UpdateMethod":1,
     "Url": "https://kongxin2333-my.sharepoint.com/personal/admin_kongxin2333_onmicrosoft_com/_layouts/52/download.aspx?share=EeYT7rxfDbFNo0koO2_DgUYBWrew7kTuplA9RbPZz9nHdg",
     "Pwd": "",
     "Bulletins": "更新公告!"
   },
-  "Data": {
-    "Bulletins": "欢迎使用英华MOOC慕课助手，本程序立志于减少大学生观看电子屏幕，解放大学生双眼，保护眼睛从我做起！本程序完全免费如您收费购买请立刻申请退款以维护自身权益！"
-  },
+  
   "lanzou": {
     "Url": "/lanzou/Lanzou.dll",
     "Function": "Lanzou"
   },
-  "Code": 200
+  "Code": 200,
+  "Msg":"欢迎使用英华MOOC慕课助手，本程序立志于减少大学生观看电子屏幕，解放大学生双眼，保护眼睛从我做起！本程序完全免费如您收费购买请立刻申请退款以维护自身权益！",
+  "Data": {}
 }
