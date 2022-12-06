@@ -11,12 +11,12 @@
     "Arg": []
   },
   "Update": {
-    "Version": 2,
-    "Compel": false,
+    "Version": 26,
+    "Compel": true,
 	"UpdateMethod":3,
-    "Url": "https://kongxin2333-my.sharepoint.com/personal/admin_kongxin2333_onmicrosoft_com/_layouts/52/download.aspx?share=EeYT7rxfDbFNo0koO2_DgUYBWrew7kTuplA9RbPZz9nHdg",
+    "Url": "https://kongxin2333-my.sharepoint.com/personal/admin_kongxin2333_onmicrosoft_com/_layouts/52/download.aspx?share=Ec8Ph2Yn3AlGqHn-h5iVMXkBxdDcUqWM2gS_VqiIV7_WaQ",
     "Pwd": "",
-    "Bulletins": "更新公告!"
+    "Bulletins": "!!!本次更新告示!!!:\r\n本次更新优化host识别不再需要手动编辑host输入\r\n下个版本计划更新自动扫描未刷完的课程(讲实话有点懒得弄)."
   },
   
   "lanzou": {
