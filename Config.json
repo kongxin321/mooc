@@ -5,7 +5,7 @@
   },
   "Patch": {
     "State": true,
-    "Url": "/Patch/Mooc_Init.dll",
+    "Url": "\/Patch\/Mooc_Init.dll",
     "Pwd": "",
     "Function": "Mooc_Init",
     "Arg": []
@@ -20,7 +20,7 @@
   },
   
   "lanzou": {
-    "Url": "/lanzou/Lanzou.dll",
+    "Url": "\/lanzou\/Lanzou.dll",
     "Function": "Lanzou"
   },
   "Code": 200,
